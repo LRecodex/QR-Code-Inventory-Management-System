@@ -29,6 +29,7 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+notes.txt
 =======
 /.phpunit.cache
 /node_modules
@@ -53,4 +54,5 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+notes.txt
 >>>>>>> Stashed changes
