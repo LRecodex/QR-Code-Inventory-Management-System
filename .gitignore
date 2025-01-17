@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 /vendor/
 node_modules/
 npm-debug.log
@@ -30,7 +29,6 @@ Homestead.json
 .phpactor.json
 auth.json
 notes.txt
-=======
 /.phpunit.cache
 /node_modules
 /public/build
@@ -55,4 +53,4 @@ yarn-error.log
 /.vscode
 /.zed
 notes.txt
->>>>>>> Stashed changes
+
